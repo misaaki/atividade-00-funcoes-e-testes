@@ -45,7 +45,7 @@ console.log(pad('🤬🤬🤬🤬🤬', '', 20) === '🤬🤬🤬🤬🤬');
 
 ## Math 0.6 pts
 
-Implementar contagem de caracteres na _string_, segundo as especificações a seguir.
+Implementar as operações de multiplicação e divisão como funções.
 
 ```js
 // math.js // 0.6 pts
@@ -78,7 +78,7 @@ console.log(div(-30, 0) === -Infinity);
 
 ## Jewels and Stones 0.3
 
-Extraído de LeetCode, ver original em <https://leetcode.com/problems/jewels-and-stones/>.
+Extraído de LeetCode, ver original em <https://leetcode.com/problems/jewels-and-stones/>
 
 You're given strings `J` representing the types of stones that are jewels, and `S` representing the stones you have.  Each character in `S` is a type of stone you have.  You want to know how many of the stones you have are also jewels.
 
