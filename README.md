@@ -4,7 +4,7 @@ Prazo: 2020-03-22 Peso: 1.5 pts
 
 _Permission granted to burn the midnight oil._
 
-Classroom link: <>
+Classroom link <https://classroom.github.com/a/ssZ_8iUB> (clique nele para gerar seu repositório para envio)
 
 ## Regras & Restrições Gerais
 
