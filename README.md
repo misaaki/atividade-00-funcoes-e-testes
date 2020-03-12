@@ -1,6 +1,6 @@
 # AVA#00: Functions and Testing
 
-Prazo: 2020-03-22 Peso: 2.0 pts
+Prazo: 2020-03-22 Peso: 1.5 pts
 
 _Permission granted to burn the midnight oil._
 
