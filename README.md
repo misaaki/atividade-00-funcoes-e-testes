@@ -57,7 +57,11 @@ console.log(mult(2, 3) === 6);
 console.log(mult(8, 10) === 80);
 console.log(mult(-9, 3) === -27);
 console.log(mult(-9, -3) === 27);
+// CORRIGIDO DE
 console.log(mult(9, -3) === 27);
+// PARA
+console.log(mult(9, -3) === -27);
+// ------------
 console.log(mult(0, -3) === 0);
 console.log(mult(10, 0) === 0);
 
