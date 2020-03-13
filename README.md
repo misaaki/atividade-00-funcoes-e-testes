@@ -33,13 +33,15 @@ console.log(pad('ifrs', '/', 12) === 'ifrs////////');
 console.log(pad('a', 'h', 5) === 'ahhhh');
 console.log(pad('curso', 'x', 5) === 'curso');
 console.log(pad('curso', 'x', 2) === 'curso');
-console.log(pad('🙄', '🤩', 4) === '🙄🤩🤩🤩');
 
 // 0.3 pts // normal
 console.log(pad('palavra', '#*', 11) === 'palavra#*#*');
 console.log(pad('hard', '/~', 15) === 'hard/~/~/~/~/~/');
 console.log(pad('logica', 'programacao', 10) === 'logicaprog');
 console.log(pad('', 'hua', 11) === 'huahuahuahu');
+
+// NÃO OBRIGATÓRIO: VALE EXTRA
+console.log(pad('🙄', '🤩', 4) === '🙄🤩🤩🤩');
 console.log(pad('🤬🤬🤬🤬🤬', '', 20) === '🤬🤬🤬🤬🤬');
 ```
 
